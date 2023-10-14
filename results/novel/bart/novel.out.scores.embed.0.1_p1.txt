@@ -1,0 +1,6 @@
+
+gold_data 1107 eval_data 1107
+
+Ignored 0 test instances (couldn't be found in eval data )
+
+Precision@1	0.5194218608852755

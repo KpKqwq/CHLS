@@ -1,0 +1,4 @@
+Total = 888, attempted = 822
+precision = 1.64, recall = 1.52
+Total with mode 425 attempted 425
+Mode precision = 1.41, Mode recall = 1.41

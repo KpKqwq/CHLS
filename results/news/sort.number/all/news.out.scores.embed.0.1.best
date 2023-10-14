@@ -1,0 +1,5 @@
+Error in results/news/sort.number/news.out.embed.0.1.best on line 438
+Total = 1110, attempted = 1082
+precision = 18.36, recall = 17.90
+Total with mode 368 attempted 368
+Mode precision = 36.68, Mode recall = 36.68
