@@ -1,15 +1,13 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Chinese Lexical Substitution: Dataset and Method
 Existing lexical substitution (LS) benchmarks were collected by asking human annotators to think of substitutes from memory, resulting in benchmarks with limited coverage and relatively small scales. To overcome this problem, we propose a novel annotation method to construct an LS dataset based on human and machine collaboration. Based on our annotation method, we construct the first Chinese LS dataset CHNLS which consists of 33,695 instances and 144,708 substitutes, covering three text genres (News, Novel, and Wikipedia). Specifically, we first combine four unsupervised LS methods as an ensemble method to generate the candidate substitutes, and then let human annotators judge these candidates or add new ones. This collaborative process combines the diversity of machine-generated substitutes with the expertise of human annotators. Experimental results that the ensemble method outperforms other LS methods. To our best knowledge, this is the first study for the Chinese LS task\footnote{Code and data are available at https:}. 
-
-# install 
-## Install transformers
+![](overview.jpg)
+# Install Instruction
+### Transformers
 Our method is build on transformers, based on custom modification of scripts. You need first follow the commands to install transformers
 cd transformers-4.20.1_phrase_ahead_chinese
 pip install -e .
 
-## Other dependencies
+### Other dependencies
 
 pip install -r requirements.txt
 
@@ -23,6 +21,7 @@ pip install -r requirements.txt
 
 
 [BERT](https://huggingface.co/bert-base-chinese), placed in bert-base-chinese/
+
 
 
 # Run example for news category 
@@ -55,3 +54,18 @@ python test.19.news.sort.number.py
 # Results
 ![](results.jpg)
 
+
+# Cite
+```
+@inproceedings{qiangchls,
+title={Cross-task generalization via natural language crowdsourcing instructions},
+author={ipeng Qiang and Kang Liu and Yin Li and Yun Li and Yunhao Yuan and Yi Zhu
+Xiaoye Ouyang and Xiaocheng Hu},
+booktitle={EMNLP},
+year={2023}
+}
+```
+
+# Contact
+
+If you have any question. Please contact yzunlplk@163.com.
