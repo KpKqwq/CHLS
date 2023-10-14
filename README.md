@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Chinese Lexical Substitution: Dataset and Method
 
 
@@ -45,3 +46,6 @@ python test.19.news.sort.number.py
 =======
 # CHLS
 >>>>>>> b3be66a3f25823fcd10aadabce5b7b729dbbf132
+=======
+# CHLS
+>>>>>>> 797fc8f9240e746b11b88aaf884b6e0b62c03155
