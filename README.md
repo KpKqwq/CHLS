@@ -55,7 +55,7 @@ python test.19.news.sort.number.py
 ![](results.jpg)
 
 
-# Cite
+# Citation
 ```
 @inproceedings{qiangchls,
 title={Cross-task generalization via natural language crowdsourcing instructions},
