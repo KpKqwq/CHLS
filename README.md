@@ -66,8 +66,8 @@ python test.19.news.sort.number.py
 # Citation
 ```
 @inproceedings{qiangchls,
-title={Cross-task generalization via natural language crowdsourcing instructions},
-author={ipeng Qiang and Kang Liu and Yin Li and Yun Li and Yunhao Yuan and Yi Zhu
+title={Chinese Lexical Substitution: Dataset and Method},
+author={Jipeng Qiang and Kang Liu and Yin Li and Yun Li and Yunhao Yuan and Yi Zhu
 Xiaoye Ouyang and Xiaocheng Hu},
 booktitle={EMNLP},
 year={2023}
