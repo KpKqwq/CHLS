@@ -3,10 +3,10 @@ Existing lexical substitution (LS) benchmarks were collected by asking human ann
 ![](overview.jpg)
 
 # Dataset Release
-Our dataset include three domains: wiki, novel, and news. We split the whole dataset  into train (80%), valid (10%), test (10%) set. The train/valid/test sets in Wiki, News, and Novel have 8,425/1,065/888, 9,472/1,169/1,110, and 9,379/1,080/11,07 instances, respectively.
+Our dataset include three domains: wiki, novel, and news. We split the whole dataset  into train (80%), valid (10%), test (10%) set. The train/valid/test sets in Wiki, News, and Novel have 8,425/1,065/888, 9,472/1,169/1,110, and 9,379/1,080/11,07 instances, respectively. The dataset could be found in dataset/release/
 
-### Test 
-We follow the English \cite{}
+### Test dataset
+To calculate the corresponding metrics, we reform the test dataset following [SemEval07](https://aclanthology.org/S07-1009.pdf). This dataset could be found in dataset/Chinese_LS/.
 
 
 # Install Instruction
