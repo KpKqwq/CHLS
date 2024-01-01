@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 [DICT](https://pan.baidu.com/share/link?shareid=2858555949&uk=2738088569),haved placed in dataset/dict/
 
-[Paraphraser](https://drive.google.com/file/d/1pXYDbVJQnVzjcLwGJzSWbX0dFtBqRStm/view?usp=sharing), need placed in bart-base-chinese/
+[Paraphraser](https://drive.google.com/file/d/17-i8xwkBqfLcLygXywslPpEuMs4ANKOA/view?usp=sharing), need placed in bart-base-chinese/
 
 
 [BERT](https://huggingface.co/bert-base-chinese), placed in bert-base-chinese/
